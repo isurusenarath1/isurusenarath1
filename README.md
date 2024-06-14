@@ -1,12 +1,21 @@
+<p align="center">
+  <picture> 
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px >
+ </picture>
+</p>
 <h1 align="center">Hi 👋, I'm Isuru Senarath</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Sri+Lanka;Software+Engineering+Undergraduate;Competitive+Programmer;Web+Developer;Web+Designer;Software+Developer;Always+learning+new+things"></a>
+  </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurusenarath1&label=Profile%20views&color=0e75b6&style=flat" alt="isurusenarath1" /> </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
 - 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **Python and Flutter**
@@ -18,7 +27,9 @@
 - 📫 How to reach me **hbuisurusenarath17418@gmail.com**
 
 - ⚡ Fun fact **No Fun Only Run**
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -36,7 +47,7 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -45,10 +56,11 @@
 <a href="https://instagram.com/isuru.senarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuru.senarath" height="40" width="40" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/ > </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
