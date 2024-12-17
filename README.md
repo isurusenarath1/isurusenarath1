@@ -19,7 +19,7 @@
  
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Python and Flutter**
+- 🌱 I’m currently learning **AI ML, Python and MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isurusenarath1?tab=repositories](https://github.com/isurusenarath1?tab=repositories)
 
