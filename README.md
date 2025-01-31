@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/isurusenarath1?tab=repositories](https://github.com/isurusenarath1?tab=repositories)
 
-- 💬 Ask me about **Web Developments OOP Java, OOP C#, Python, Flutter**
+- 💬 Ask me about **Web Developments MERN Stack, java, python**
 
 - 📫 How to reach me **hbuisurusenarath17418@gmail.com**
 
