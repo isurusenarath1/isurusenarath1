@@ -17,7 +17,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Advance Learning Management System - MERN Stack**
 
 - 🌱 I’m currently learning **AI ML, Python and MERN Stack**
 
