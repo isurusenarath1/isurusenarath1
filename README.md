@@ -134,9 +134,9 @@
       <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="50" height="50"/>
     </a>
   </p>
-## 🧠 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/isurusenarath1/isurusenarath1/output/github-contribution-grid-snake.svg" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
